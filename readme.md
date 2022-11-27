@@ -19,7 +19,7 @@ Neural Network와 Genetic Algorithm을 활용하여 만든 Snake Game AI 입니�
 
 ## Solution
 1. 망 구조, 함수 등에서 다양한 수정을 가할 것 입니다.
-2. 실제로 뱀을 이동시키지 않고 학습을 한 후 마지막에 모델을 적용하는 방식으로 수정할 것 입니다.
+2. 실제로 뱀을 이동시키지 않고 학습을 한 후 마지막에 모델을 적용하는 방식으로 수정할 것 입니다.  
 **인터넷에 수학 이론 검색하면서 만든 첫 Neural Network 이자 첫 Genetic Algorithm 프로젝트 이기 때문에 수정할 점이 많을 수 있습니다! 아낌없는 잔소리와 PR을 날려주세요!!**
 
 ## Credits
